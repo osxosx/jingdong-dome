@@ -1,0 +1,191 @@
+{
+  "id": "2119331",
+  "name": "project-test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1089242",
+      "name": "礼品卡",
+      "font_class": "lipinqia",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "1107471",
+      "name": "机票",
+      "font_class": "jipiao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3146736",
+      "name": "加油卡",
+      "font_class": "jiayouqia",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4097652",
+      "name": "众筹",
+      "font_class": "zhongchou",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "6728340",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10258992",
+      "name": "话费",
+      "font_class": "huafei",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11197664",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11798639",
+      "name": "白条",
+      "font_class": "baitiao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14340930",
+      "name": "企业购图标",
+      "font_class": "qiyegoutubiao",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "15112772",
+      "name": "电影票",
+      "font_class": "dianyingpiao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15622084",
+      "name": "理财",
+      "font_class": "licai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "16665298",
+      "name": "火车票",
+      "font_class": "ziyuanleixing-huochepiao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "17128831",
+      "name": "礼品卡",
+      "font_class": "lipinka",
+      "unicode": "e80e",
+      "unicode_decimal": 59406
+    },
+    {
+      "icon_id": "4042750",
+      "name": "轮播右",
+      "font_class": "gengduo",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "10370761",
+      "name": "轮播左边",
+      "font_class": "lunbozuobian",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "8435435",
+      "name": "竖线",
+      "font_class": "shuxian",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "10463200",
+      "name": "竖线",
+      "font_class": "shuxian1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2844601",
+      "name": "大于",
+      "font_class": "dayu1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3338828",
+      "name": "向下边框三角",
+      "font_class": "down-trangle",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3952155",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6701417",
+      "name": "定位",
+      "font_class": "icon-test",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14436855",
+      "name": "购物 车",
+      "font_class": "gouwuche",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "712409",
+      "name": "关闭",
+      "font_class": "icon-cross-squre",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12323744",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "13814709",
+      "name": "拍照 照片",
+      "font_class": "paizhaozhaopian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "970752",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}

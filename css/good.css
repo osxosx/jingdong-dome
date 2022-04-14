@@ -1,0 +1,62 @@
+  .clearfix {
+      display: grid;
+      background-color: #fff;
+      grid-template: repeat(3, 350px) / repeat(4, 280px);
+      /* justify-items: center;
+      align-items: center; */
+      column-gap: 0.2rem;
+      row-gap: 0.3rem;
+      /*里面居中 */
+      align-items: center;
+      justify-items: center;
+      /* 整个盒子居中 */
+      justify-content: center;
+      align-content: center;
+  }
+  
+  .item {
+      height: 320px;
+      width: 270px;
+      justify-content: center;
+      text-align: center;
+      color: #ff5675;
+  }
+  
+  .item1 {
+      grid-column-start: 1;
+      /* 一行的话就到-1  简写grid-column: 1 /-1*/
+      grid-column-end: 3;
+      background-color: #ff5675;
+  }
+  
+  .item2 {
+      background-color: #56ffb0;
+  }
+  
+  .item3 {
+      background-color: #6156ff;
+  }
+  
+  .item4 {
+      background-color: #ff56b3;
+  }
+  
+  .item6 {
+      background-color: #ff5675;
+  }
+  
+  .item5 {
+      background-color: #56ffb0;
+  }
+  
+  .item7 {
+      background-color: #ff5675;
+  }
+  
+  .item8 {
+      background-color: #56ffb0;
+  }
+  
+  .item9 {
+      background-color: #ff5675;
+  }
